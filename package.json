@@ -1,0 +1,28 @@
+{
+  "name": "bring-to-front",
+  "version": "0.0.1",
+  "description": "brings window with pid to foreground",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "node-gyp rebuild",
+    "test": "jest --watchAll",
+    "build": "node-gyp build",
+    "clean": "node-gyp clean && node-gyp configure",
+    "demo": "node sample.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "gypfile": true,
+  "dependencies": {
+    "nan": "^2.14.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.18",
+    "@types/node": "^12.7.5",
+    "bindings": "^1.5.0",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.1.0",
+    "typescript": "^3.6.3"
+  }
+}
