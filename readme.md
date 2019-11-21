@@ -27,31 +27,6 @@
 </p>
 
 
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [About The Project](#about-the-project)
-  - [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -123,7 +98,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email -->
 
-Project Link: [https://github.com/github_username/repo](https://github.com/estradiaz/bringToFront)
+Project Link: [https://github.com/estradiaz/bringToFront](https://github.com/estradiaz/bringToFront)
 
 
 
